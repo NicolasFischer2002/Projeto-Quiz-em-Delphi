@@ -1,0 +1,12 @@
+--- Refatoração do projeto passado - Projeto 
+
+-Permitir a criação de Quizes, com no máximo 15 perguntas cada Quiz
+-Ter uma tela de Login, que receba um nome e armazena o nome digitado, data e hora em que a pessoa entrou no programa
+-Deve permitir que a pessoa formule suas perguntas e as alternavas, e os resultados, deve permitir que música seja
+adicionada, imagens também podem ser adicionadas
+-No máximo 3 Quizes podem existir em simultâneo
+-Deve existir as opções de Criar, Salvar, Editar e Excluir os Quizes
+-Telas: Login, Menu(Entrar, Administrador, Créditos), Tela onde o Quiz selecionado carregará, créditos
+-Unit para armazenar todas as variáveis, funções e procedures públicas
+-Código limpo, especificação de variáveis, exemplo: I_Publico, ContadorDeVoltas_Private, etc;
+-Adicioanar música nos menus (música do terraria talvez)

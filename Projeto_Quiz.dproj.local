@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/28 14:03:13.000.600,=C:\Users\nicol\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/02 18:14:24.000.764,=C:\Users\nicol\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/02 18:15:11.000.654,C:\Users\nicol\OneDrive\Área de Trabalho\Projeto 2.0\U_Login.pas=C:\Users\nicol\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/02 18:15:11.000.654,C:\Users\nicol\OneDrive\Área de Trabalho\Projeto 2.0\U_Login.dfm=C:\Users\nicol\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/02 18:15:22.000.196,C:\Users\nicol\OneDrive\Área de Trabalho\Projeto 2.0\Projeto_Quiz.dproj=C:\Users\nicol\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/02 18:15:49.000.710,=C:\Users\nicol\OneDrive\Área de Trabalho\Projeto 2.0\Unit1.pas</Transaction>
+    <Transaction>2022/11/02 18:16:14.000.820,C:\Users\nicol\OneDrive\Área de Trabalho\Projeto 2.0\U_Publica.pas=C:\Users\nicol\OneDrive\Área de Trabalho\Projeto 2.0\Unit1.pas</Transaction>
+    <Transaction>2022/11/05 17:14:07.000.274,=C:\Users\nicol\OneDrive\Área de Trabalho\Projeto 2.0\U_Menu.pas</Transaction>
+    <Transaction>2022/11/13 22:01:13.000.326,=C:\Users\nicol\OneDrive\Área de Trabalho\ProjetoQuiz 12_11_22\Unit1.pas</Transaction>
+    <Transaction>2022/11/13 22:01:36.000.853,C:\Users\nicol\OneDrive\Área de Trabalho\ProjetoQuiz 12_11_22\Unit1.dfm=C:\Users\nicol\OneDrive\Área de Trabalho\ProjetoQuiz 12_11_22\U_Credits.dfm</Transaction>
+    <Transaction>2022/11/13 22:01:36.000.853,C:\Users\nicol\OneDrive\Área de Trabalho\ProjetoQuiz 12_11_22\Unit1.pas=C:\Users\nicol\OneDrive\Área de Trabalho\ProjetoQuiz 12_11_22\U_Credits.pas</Transaction>
+    <Transaction>2022/11/14 20:16:03.000.521,=C:\Users\nicol\OneDrive\Área de Trabalho\ProjetoQuiz 13_11_22\Unit1.pas</Transaction>
+    <Transaction>2022/11/14 20:17:49.000.113,C:\Users\nicol\OneDrive\Área de Trabalho\ProjetoQuiz 13_11_22\U_Jogar.dfm=C:\Users\nicol\OneDrive\Área de Trabalho\ProjetoQuiz 13_11_22\Unit1.dfm</Transaction>
+    <Transaction>2022/11/14 20:17:49.000.113,C:\Users\nicol\OneDrive\Área de Trabalho\ProjetoQuiz 13_11_22\U_Jogar.pas=C:\Users\nicol\OneDrive\Área de Trabalho\ProjetoQuiz 13_11_22\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="U_Credits.pas"/>
+    <File Path="U_Credits.dfm"/>
+    <File Path="U_Jogar.pas"/>
+    <File Path="U_Jogar.dfm"/>
+    <File Path="U_Login.pas"/>
+    <File Path="U_Login.dfm"/>
+    <File Path="U_Menu.pas"/>
+    <File Path="U_Menu.dfm"/>
+    <File Path="U_Publica.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
